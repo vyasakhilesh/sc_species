@@ -3,3 +3,6 @@ key.py
 nohup.out
 .ipynb_checkpoints/
 data/.ipynb_checkpoints
+local_data
+data
+cleaned_data
