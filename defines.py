@@ -13,7 +13,116 @@ coordinates_dict = {
     'Seen, Weiher und Moorstellen ,“Heiliges Meer"': {'latitude': 52.3456, 'longitude': 7.8901},
     'Moore im Sauer und Münsterland': {'latitude': 51.2345, 'longitude': 7.5432},}
 
-import googlemaps
+
+"""coordinates_dict_new = {
+  "Eder": {
+    "latitude": 51.166667,
+    "longitude": 8.75
+  },
+  "Gebirgsbäche im Sauerland": {
+    "latitude": 51.25,
+    "longitude": 8.25
+  },
+  "Gebirgsbäche im Sauerland": {
+    "latitude": 51.25,
+    "longitude": 8.25
+  },
+  "Lippe": {
+    "latitude": 51.583333,
+    "longitude": 8.5
+  },
+  "Moore im Sauer und Münsterland": {
+    "latitude": 51.75,
+    "longitude": 7.5
+  },
+  "Moore im Sauer und Münsterland": {
+    "latitude": 51.75,
+    "longitude": 7.5
+  },
+  "Moore im Sauer und Münsterland": {
+    "latitude": 51.75,
+    "longitude": 7.5
+  },
+  "Moore im Sauer-und Miinsterland": {
+    "latitude": 51.75,
+    "longitude": 7.5
+  },
+  "Plankton der Talsperren": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Plankton der Werse bei Münster": {
+    "latitude": 51.966667,
+    "longitude": 7.616667
+  },
+  "Plankton der Werse bei Münster": {
+    "latitude": 51.966667,
+    "longitude": 7.616667
+  },
+  "Plankton der Werse bei Münster": {
+    "latitude": 51.966667,
+    "longitude": 7.616667
+  },
+  "Plankton des Dortmund-Ems Kanals": {
+    "latitude": 51.5,
+    "longitude": 7.5
+  },
+  "Ruhr": {
+    "latitude": 51.5,
+    "longitude": 7.5
+  },
+  "Salinen und Salzgruben im südlichen Gebiet": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Salinen und Salzgruben im südlichen Gebiet": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Salinen und Salzgräben im südlichen Gebiet": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Seen, Weiher und Moorstellen , Heiliges Meer": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Seen, Weiher und Moorstellen , Heiliges Meer": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Teiche und Moor stellen , Kipshagen": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Teiche und Moor stellen , Kipshagen": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Teiche und Moor stellen ,“Kipshagen ”": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "Unnamed: 13": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "desgl. im n rdlichen Gebiet": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "desgl. im nrdlichen Gebiet": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  },
+  "desgl. im nördlichen Gebiet": {
+    "latitude": 51.5,
+    "longitude": 8.5
+  }
+}"""
+
+
+"""import googlemaps
 
 client = googlemaps.Client(api_key="YOUR_API_KEY")
 
@@ -57,4 +166,4 @@ for location in locations:
 
     results.append({"location": {"latitude": latitude, "longitude": longitude}})
 
-print(results)
+print(results)"""
