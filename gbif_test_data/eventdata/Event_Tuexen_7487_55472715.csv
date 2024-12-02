@@ -1,0 +1,659 @@
+scientificName,kingdom,organismQuantity,organismQuantityType,occurrenceID,decimalLatitude,decimalLongitude,year,eventID,basisofRecord
+Chroococcales,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_99,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Microcystis Lemmermann, 1907",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_100,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microcystis aeruginosa_H,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_101,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microcystis marginata (Menegh.) Kuetzing,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_102,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Aphanocapsa C.Nägeli, 1849",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_103,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Aphanothece stagnina (Spreng.) A.Braun,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_104,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Chroococcus Nägeli, 1849",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_105,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chroococcus turgidus (Kütz.) Nägeli,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_106,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chroococcus minutus (Kütz.) Nägeli,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_107,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gloeothece Nägeli, 1849",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_108,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Gomphosphaeria aponina Kütz.,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_109,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Coelosphaerium Nägeli, 1849",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_110,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Merismopedia tenuissima Lemmerm.,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_111,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Merismopedia punctata Meyen,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_112,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Merismopedia glauca (Ehrenb.) Kütz.,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_113,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Merismopedia elegans A.Braun,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_114,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Holopedia Lagerheim, 1893",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_115,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Synechococcus aeruginosus Nägeli,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_116,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chamaesiphonites Palik,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_117,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oncobyrsa rivularis (Kütz.) Menegh.,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_118,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chamaesiphon fuscus (Rostaf.) Hansg.,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_119,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chamaesiphon incrustans Grunow,Bacteria,+,Braun-Blanquet Scale,Tuexen_7487_120,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chamaesiphon polonicus (Rostaf.) Hansg.,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_121,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chamaesiphon polymorphus Geitler,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_122,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Chamaesiphon A.Braun, 1864",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_123,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chamaesiphon curvatus Nordst.,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_124,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Stigonemataceae,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_125,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Stigonema mamillosum C.Agardh ex Bornet & Flahault,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_126,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Stigonema hormoides Bornet & Flahault,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_127,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Stigonema ocellatum Thur. ex Bornet & Flahault,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_128,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stigonema C.Agardh ex Bornet & Flahault, 1886",Bacteria,,Braun-Blanquet Scale,Tuexen_7487_129,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Hapalosiphon fontinalis (C.Agardh) Bornet,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_130,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Hapalosiphon intricatus W.West & G.S.West,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_131,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetmemorus laevis var. minutus (de Bary) Willi.Krieg.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_524,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum cuneatum Jenner,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_525,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum ansatum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_526,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum crassum (Bréb.) Kütz.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_527,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Plantae,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_528,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum ampullaceum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_529,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum didelta Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_530,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum affine Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_531,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum pinnatum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_532,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum humerosum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_533,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum oblongum (Grev.) Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_534,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum insigne Hassall ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_535,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum pectinatum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_536,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum binale Ehrenb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_537,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Euastrum insulare (Wittrock) Roy, 1883",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_538,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum dubium Nägeli,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_539,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum pulchellum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_540,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_541,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euastrum elegans (Bréb.) Kütz. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_542,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias pinnatifida Kütz. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_543,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias truncata (Corda) Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_544,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_545,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias radiata Hass.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_546,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias apiculata Meneghini ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_547,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias papillifera Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_548,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias rotata (Grev.) Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_549,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Micrasterias denticulata var. angulosa (Hantzsch) W. & G.S.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_550,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium abbreviatum Nordst.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_551,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium angulosum var. concinnum (Rabenh.) W. & G.S.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_552,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium amoenum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_553,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium bioculatum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_554,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_555,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium cucurbitinum (Bisset) Lütkem.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_556,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium circulare Reinsch,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_557,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium contractum Kirchn.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_558,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium connatum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_559,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium conspersum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_560,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium crenatum Ralfs ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_561,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium depressum (Nägeli) P.Lundell,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_562,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium difficile Lütkem.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_563,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium fontigenum Nordst.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_564,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium granatum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_565,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chaetosphaeridium,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1074,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microsporales,Plantae,,Braun-Blanquet Scale,Tuexen_7487_1075,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microspora quadrata Hazen,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1076,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microspora tumidula Hazen,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1077,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microspora stagnorum (Kütz.) Lagerh.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1078,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microspora floccosa (Vaucher) Thur.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1079,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microspora pachyderma (Wille) Lagerh.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1080,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microspora amoena (Kütz.) Rabenh.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_1081,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Oedogonium Link ex Hirn, 1900",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_1082,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oedogonium undulatum (Bréb.) A.Braun,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1083,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Bulbochaete C.Agardh, 1817",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_1084,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Bulbochaete crassiuscula Nordst.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1085,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Bulbochaete C.Agardh, 1817",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1086,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cladophora glomerata (L.) Kütz.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_1087,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cladophora fracta (O.F.Müller ex Vahl) Kützing,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1088,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Rhizoclonium hieroglyphicum (C.Agardh) Kützing,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_1089,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Aegagropila Kützing, 1843",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1090,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Bryopsidales,Plantae,,Braun-Blanquet Scale,Tuexen_7487_1091,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Vaucheria sessilis (Vaucher) DC.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1092,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Vaucheria geminata (Vaucher) DC.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1093,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Vaucheria A.P.de Candolle, 1801",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1094,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Volvocales,Plantae,,Braun-Blanquet Scale,Tuexen_7487_1095,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pyramidomonas Averintsev, 1916",Protozoa,—,Braun-Blanquet Scale,Tuexen_7487_1096,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Gonium pectorale O.F.Müll.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1097,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pandorina morum (O.F.Müll.) Bory,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1098,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Eudorina elegans Ehrenb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1099,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Volvox aureus Ehrenb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1100,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Conjugata Vaucher, 1803",Plantae,,Braun-Blanquet Scale,Tuexen_7487_1101,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Spirogyra Link, 1820",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_1102,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spirogyra maxima (Hassall) Wittr.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1103,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spirogyra mirabilis (Hassall) Kütz.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1104,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spirogyra inflata (Vaucher) Dumort.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1105,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Zygnema C.Agardh, 1816",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1106,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Zygogonium ericetorum Kütz.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1107,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Mougeotia viridis (Kütz.) Wittr.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1108,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Mougeotia parvula Hassall,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_1109,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Heterodonta Duponchel, 1845",Animalia,,Braun-Blanquet Scale,Tuexen_7487_1110,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Mischococcus confervicola Nägeli,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1111,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ophiocytium majus Nägeli,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1112,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ophiocytium cochleare (Eichw.) A.Braun,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1113,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ophiocytium arbuscula (A.Br.) Rabh.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1114,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cyclotella operculata (C.A.Ag.) Kützing,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1543,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cyclotella comensis Grunow, 1882",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1544,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cyclotella comta Skabichevskii, 1960",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1545,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cyclotella Kützing,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1546,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stephanodiscus astraea (Ehrenberg) Grunow, 1880",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1547,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stephanodiscus dubius Skabichevskii, 1953",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1548,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stephanodiscus C.G.Ehrenberg, 1845",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1549,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Rhizosolenia longiseta Levander, 1904",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1550,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Biddulphia S.F.Gray, 1821",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1551,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Tabellaria fenestrata (Lyngbye) Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1552,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Tabellaria C.G.Ehrenberg ex F.T.Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1553,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Tabellaria flocculosa (Roth) Kützing, 1844",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1554,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diatoma vulgare Bory de Saint-Vincent, 1831",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1555,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diatoma J.B.M.Bory de Saint-Vincent, 1824",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1556,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diatoma elongatum W.Smith, 1856",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1557,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diatoma hiemale (Lyngb.) Heiberg, 1863",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1558,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diatoma hiemale var. mesodon (Ehrenberg) Kirchner, 1878",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1559,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Meridion circulare (Greville) C.Agardh, 1831",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1560,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Meridion C.A.Agardh, 1824",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1561,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Opephora P.Petit, 1888",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1562,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Hannaea R.Patrick, 1966",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1563,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Ceratoneis C.G.Ehrenberg, 1839",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1564,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Fragilaria crotonensis Kitton, 1869",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1565,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Fragilaria capucina (Grunow) Lange-Bertalot, 1993",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1566,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Fragilaria lanceolata (Kützing) E.Reichardt, 1988",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1567,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Fragilaria H.C.Lyngbye, 1819",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1568,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Fragilaria brevistriata Grunow, 1885",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1569,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Fragilaria intermedia (Grunow) Grunow, 1881",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1570,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Fragilaris,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1571,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Asterionella formosa Hassall, 1850",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1572,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Synedra ulna (Nitzsch) Ehrenberg, 1832",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1573,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Capitata Hartman, 1947",Animalia,—,Braun-Blanquet Scale,Tuexen_7487_1574,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Minuscula Lebour, 1925",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1575,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pulchella K.Krammer, 2000",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1576,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+? parasitica Pers.,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1577,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia legumen Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1980,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia divergens W.Smith, 1853",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1981,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia C.G.Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1982,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia borealis Ehrenberg, 1843",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1983,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia gibba Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1984,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia hemiptera (Kützing) Rabenhorst, 1853",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1985,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia major (Kützing) Rabenhorst, 1853",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1986,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia dactylus Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1987,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia esox Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1988,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia viridis (Nitzsch) Ehrenberg, 1843",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1989,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pannularia,Fungi,—,Braun-Blanquet Scale,Tuexen_7487_1990,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia gentilis (Donkin) Cleve, 1891",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1991,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia nobilis (Ehrenberg) Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1992,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia undulata Pantocsek & Greguss, 1913",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1993,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia cardinalis (Ehrenberg) W.Smith, 1853",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1994,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia molaris (Grunow) Cleve, 1895",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1995,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Amphiprora paludosa W.Smith, 1853",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1996,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Amphiprora C.G.Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1997,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Amphora,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_1998,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Amphora coffeaeformis,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_1999,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Amphora commutata Grunow, 1880",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2000,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Amphora delicatissima Krasske, 1930",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2001,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Amphora veneta A.Schmidt, 1875",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2002,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella microcephala Grunow, 1885",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2003,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella C.A.Agardh, 1830",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2004,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella naviculiformis Krenner, 1926",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2005,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella cuspidata Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2006,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella delicatula Kützing, 1849",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2007,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella prostrata (Berkeley) Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2008,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella turgida W.Gregory, 1856",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2009,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella ventricosa Kützing, 1844",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2010,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cymbella parva (W.Sm.) Wolle,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2011,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella sinuata W.Gregory, 1856",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2012,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella cistula Schmidt, 1875",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2013,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Bacillariophyceae,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2014,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymbella affinis Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2015,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gomphonema acuminatum Ehrenberg, 1832",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2016,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gomphonema C.G.Ehrenberg, 1832",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2017,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gomphonema augur Ehrenberg, 1840",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2018,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gomphonema C.G.Ehrenberg, 1832",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2019,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gomphonema angustatum (Kützing) Rabenhorst, 1864",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_2020,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Schizochlamys gelatinosa A.Braun,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2473,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Chlorosphaera Klebs, 1883",Plantae,,Braun-Blanquet Scale,Tuexen_7487_2474,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Protococcales,Plantae,,Braun-Blanquet Scale,Tuexen_7487_2475,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Dicranochaete reniformis Hieron.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2476,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Chlorochytrium Cohn, 1872",Plantae,,Braun-Blanquet Scale,Tuexen_7487_2477,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Characium ornithocephalum A.Braun,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2478,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Characium A.Braun, 1849",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_2479,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pediastrum integrum Nägeli, 1849",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2480,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pediastrum Meyen, 1829",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2481,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pediastrum duplex Meyen,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2482,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pediastrum angulosum Ehrenb. ex Menegh.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2483,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pediastrum biradiatum Meyen,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2484,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Hydrodictyon reticulatum (L.) Lagerh.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2485,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Eremosphaera viridis de Bary,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2486,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chlorella vulgaris Beij.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2487,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Golenkinia radiata (Chodat) Korshikov, 1894",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2488,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Oocystis Nägeli ex A.Braun, 1855",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2489,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oocystis lacustris Chodat,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2490,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oocystis elliptica W.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2491,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oocystis pelagica Lemmerm.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2492,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Glaucocystis H.Itzigsohn, 1866",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2493,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Tetraedron Kützing, 1845",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2494,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetraëdron minimum (A.Braun) Hansg.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2495,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetraëdron caudatum (Corda) Hansg.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2496,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetraedron lobulatum (Nägeli) Hansg.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_2497,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmus acuminatus (Lagerh.) Chodat,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2498,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmus quadricauda (Turpin) Bréb.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_2499,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Scenedesmus Meyen, 1829",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2500,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmus arcuatus (Lemmerm.) Lemmerm.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2501,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmaceae,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2502,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmus obliquus (Turpin) Kütz.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_2503,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmus acutiformis Schröd.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2504,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmus serratus (Corda) Bohlin,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2505,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scenedesmus costatus Schmidle,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2506,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Crucigenia Morren, 1830",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2507,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Crucigenia,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2508,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Selenastrum gracile Reinsch,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2509,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Selenastrum Reinsch, 1867",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_2510,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Selenastrum,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2511,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Kirchneriella obesa (G.S.West) Schmidle,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2512,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Penium margaritaceum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2960,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Penium cylindrus Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2961,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Penium phymatosporum Nordst., 1876",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2962,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Penium Brébisson ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2963,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Penium rufescens Cleve,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2964,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium libellula Focke,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2965,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium Nitzsch ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2966,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium navicula (Bréb.) Lütkem.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2967,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium acutum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2968,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium venus var. incurvum (Bréb.) Willi Krieg.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2969,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium parvulum Nägeli, 1849",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2970,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium idiosporum West & G.S.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2971,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium Nitzsch ex Ralfs, 1848",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_2972,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium moniliferum (Bory) Ehrenb. ex Ralfs, 1848",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_2973,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium calosporum Wittrock,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2974,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium dianae Ehrenberg ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2975,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium lunula Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2976,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium abruptum West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2977,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium gracile Bréb. ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2978,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium macilentum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2979,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium acerosum (Schrank) Ehrenb. ex Ralfs, 1848",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_2980,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium lanceolatum Kützing ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2981,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium didymotocum Corda ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2982,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium juncidum var. brevius (Rabenh.) J.Roy,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2983,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium turgidum Ehrenb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2984,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium intermedium Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2985,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium striolatum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2986,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium praelongum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2987,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium ulna Focke ex W.B.Turner, 1892",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2988,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium lineatum Ehrenberg ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2989,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium rostratum Ehrenb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2990,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium setaceum Ehrenb. ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2991,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Closterium costatum Corda ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2992,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Closterium angustatum Kütz. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2993,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Charophyta,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2994,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pleurotaenium trabecula (Ehrenb.) Nägeli, 1849",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2995,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pleurotaenium,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2996,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pleurotaenium coronatum (Brébisson) Rabenhorst,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2997,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pleurotaenium Nägeli, 1849",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2998,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pleurotaenium truncatum (Brébisson ex Ralfs) Nägeli,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_2999,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetmemorus granulatus Brébisson ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3000,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetmemorus,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3001,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Botryococcus Kützing, 1849",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3453,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tribonema minus (Wille) Hazen,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3454,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Botrydium granulatum (L.) Grev.,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3455,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Phaeophyceae,Chromista,,Braun-Blanquet Scale,Tuexen_7487_3456,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Lithoderma fluviatile Aresch.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3457,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Rhodophyceae,Plantae,,Braun-Blanquet Scale,Tuexen_7487_3458,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Bangia atropurpurea (Mertens ex Roth) C.Agardh,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3459,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Thorea ramosissima Bory,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3460,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chantransia violacea Kützing,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3461,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pseudochantransia chalybea (Roth) Brand,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3462,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pseudochantransia F.Brand, 1897",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3463,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Batrachospermum Roth, 1797",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3464,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermum moniliforme Sirodot,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3465,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Batrachospermum densum Sirodot, 1884",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3466,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermum ectocarpum Sirodot,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3467,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermum arcuatum Kylin,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3468,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermaceae,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3469,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermum boryanum Sirodot,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3470,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermum anatinum Sirodot,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3471,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermum distensum Kylin,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3472,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Batrachospermum testale Sirodot,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3473,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Lemanea fluviatilis (L.) C.Agardh,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3474,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Lemanea Bory de Saint-Vincent, 1808",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_3475,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Anthophysa vegetans (O.F.Müll.) F.Stein,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3476,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Chromulina L.Cienkowsky, 1870",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3477,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chromulina pseudonebulosa,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3478,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Mallomonas caudata Willi Krieg.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3479,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Mallomonas akrokomos Ruttner,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3480,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Mallomonas Perty, 1852",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3481,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Syncrypta C.G.Ehrenberg, 1834",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3482,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Synura uvella Korshikov,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3483,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Uroglena volvox Ehrenb.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3484,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Dinobryon sertularia Ehrenb.,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3485,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Dinobryon stipitatum F.Stein,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3486,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Dinobryon divergens O.E.Imhof,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3487,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Hydrurus foetidus (Villars) Trevisan,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3488,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cryptomonadidae,Chromista,,Braun-Blanquet Scale,Tuexen_7487_3489,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cryptomonas erosa Ehrenb.,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3490,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cryptomonas Ehrenberg, 1831",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3491,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula mutica Grunow, 1860",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3918,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula binodis Ehrenberg, 1840",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3919,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula Bory,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3920,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula (Other),Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3921,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula protracta Grunow, 1880",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3922,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula longirostris Hustedt, 1930",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3923,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula atomus,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3924,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula cryptocephala Kützing,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3925,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula salinarum Grunow,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3926,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula halophila (Grunow) Cleve, 1894",Chromista,,Braun-Blanquet Scale,Tuexen_7487_3927,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula rhynchocephala Kützing,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3928,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula (Other),Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3929,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula hungarica,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3930,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula cincta (Ehrenberg) Ralfs,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3931,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula radiosa Kützing,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3932,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula gracilis Lauby, 1910",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3933,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula peregrina (Ehrenberg) Kützing,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3934,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula dicephala Ehrenberg, 1838",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3935,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula anglica,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3936,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula placentula (Ehrenberg) Kützing, 1844",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3937,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula gastrum (Ehrenb.) Kütz., 1844",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3938,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Naviculaceae,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3939,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula elegans,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3940,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula pygmaea Frenguelli, 1923",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3941,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula integra (Grunow ex Cleve) Fricke, 1902",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3942,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula subtilissima Cleve, 1891",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3943,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula soodensis Krasske, 1927",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3944,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula menisculus Schumann,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3945,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula amphibola Cleve, 1891",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3946,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula cocooneiformis Schumann, 1863",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3947,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula creuzburgensis Krasske, 1927",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3948,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia gracillima W.Gregory, 1856",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3949,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pinnularia appendiculata (C.Agardh) Cleve,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3950,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia subcapitata W.Gregory, 1856",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3951,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia interrupta Pedicino, 1867",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3952,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia mesolepta (Ehrenberg) W.Smith, 1853",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3953,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia globiceps W.Gregory, 1856",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_3954,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pinnularia microstauron Mayer, 1913",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_3955,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum cuspidatum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4389,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum erasum Brébisson,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4390,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum furcatum Brébisson,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4391,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum furcigerum (Bréb.) W.Archer,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4392,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum glabrum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4393,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum gracile Ralfs ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4394,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum hystrix Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4395,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum hirsutum Ehrenberg ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4396,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum hexacerum Wittr.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4397,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Staurastrum Meyen ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4398,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum muticum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4399,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum muricatum Brebisson,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4400,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum natator West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4401,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum oxyacanthum W.Archer,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4402,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum orbiculare Menegh. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4403,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum polymorphum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4404,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum paradoxum Meyen ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4405,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum polytrichum (Perty) Rabenhorst,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4406,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum punctulatum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4407,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum quadrangulare (Bréb.) Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4408,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Schizacanthum armatum (Ralfs) J.N.F.Wille, 1890",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4409,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Sphaerozosma granulatum J.Roy & Bisset,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4410,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Sphaerozosma vertebratum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4411,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Onychonema filiforme (Ehrenb. ex Ralfs) J.Roy & Bisset,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4412,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spondylosium tetragonum West & G.S.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4413,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spondylosium planum (Wolle) West & G.S.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4414,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spondylosium papillosum West & G.S.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4415,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spondylosium pulchellum (W.Archer) W.Archer,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4416,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Hyalotheca dissiliens Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4417,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Desmidium C.Agardh ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4418,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Desmidium aptogonum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4419,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Gymnozyga,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4420,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pleurotaeniopsis ovalis (Ralfs ex Ralfs) De Toni, 1889",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_4421,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Pleurotheliopsis,Fungi,—,Braun-Blanquet Scale,Tuexen_7487_4422,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Diatomeae,Chromista,,Braun-Blanquet Scale,Tuexen_7487_4423,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Melosira nummuloides W.Smith,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4424,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Melosira arenaria,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4425,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Melosira varians C.Agardh, 1827",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4426,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Melosira ambigua (Grunow) O.F.Müller, 1904",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4427,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Melosira granulata Otto Müller, 1903",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4428,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Melosira distans,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4429,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Melosira italica Komarenko, 1956",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4430,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Thalassiosira fluviatilis Hustedt, 1926",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4431,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Peronia erinacea,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4887,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia C.G.Ehrenberg, 1837",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4888,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia praerupta Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4889,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia arcus Ehrenberg, 1837",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4890,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia tenella (Grunow) Hustedt, 1913",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4891,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Eunotia exigua (Breb) Rabh.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4892,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia C.G.Ehrenberg, 1837",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4893,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia tridentula var. perminuta Van Heurck, 1881",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4894,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia pectinalis (Kützing) Rabenhorst, 1864",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4895,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia parallela Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4896,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia lunaris Brébisson ex Rabenhorst, 1864",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4897,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia alpina Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4898,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia gracilis W.Smith, 1853",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4899,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Eunotia monodon var. major (W.Smith) Hustedt,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4900,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia formica Ehrenberg, 1843",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4901,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eunotia septentrionalis Østrup, 1897",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4902,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cocconeis pediculus Ehrenberg, 1838",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4903,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cocconeis placentula Ehrenberg, 1838",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4904,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cocconeis C.G.Ehrenberg, 1837",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4905,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cocconeis disculus (Schumann) Cleve, 1882",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4906,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eucocconeis flexella (Kütz.) Cleve, 1885",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4907,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Eucocconeis lapponica Hustedt, 1924",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4908,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Achnanthes microcephala Kütz.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4909,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Achnanthes minutissima Kützing, 1833",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4910,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Achnanthes Bory, 1822",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4911,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Achnanthes linearis (W.Smith) Grunow, 1880",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4912,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Achnanthes exigua Grunow, 1880",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4913,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Achnanthes lanceolata H.Ettl et al., 1991",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4914,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Achnanthes Bory, 1822",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4915,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Achnanthes conspicua,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4916,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Achnanthes delicatula (Kützing) Grunow, 1880",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4917,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Rhoicosphenia curvata (Kützing) Grunow, 1860",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4918,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Mastogloia G.H.K.Thwaites, 1856",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4919,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Mastogloia Thwaites ex W.Sm.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_4920,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Amphipleura pellucida (Kützing) Kützing, 1844",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_4921,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Kirchneriella lunaris (Kirchner) Möbius, 1894",Plantae,,Braun-Blanquet Scale,Tuexen_7487_5326,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Kirchneriella contorta (Schmidle) Bohlin,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5327,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Dictyosphaerium Nägeli, 1849",Plantae,,Braun-Blanquet Scale,Tuexen_7487_5328,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Dictyosphaerium pulchellum H.C.Wood,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5329,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Ankistrodesmus Corda, 1838",Plantae,,Braun-Blanquet Scale,Tuexen_7487_5330,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ankistrodesmus biplexus (Reinsch) Hortob.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5331,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coelastrum cubicum Nägeli,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5332,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coelastrum microporum Nägeli,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5333,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coelastrum proboscideum Bohlin,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5334,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coelastrum sphaericum Nägeli,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5335,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coelastrum reticulatum (P.A.Dang.) Senn,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5336,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Sorastrum echinatum (Meneghini) Kuetzing,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5337,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Sorastrum spinulosum Nägeli,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5338,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Protococcus C.Agardh, 1824",Plantae,,Braun-Blanquet Scale,Tuexen_7487_5339,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Keratococcus caudatus Pascher,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5340,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ulotrichales,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5341,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Monostroma bullosum (Roth) Thur.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5342,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Enteromorpha intestinalis (L.) Link,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5343,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Enteromorpha Link, 1820",Plantae,,Braun-Blanquet Scale,Tuexen_7487_5344,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ulothrix zonata (F.Weber & D.Mohr) Kütz.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5345,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ulothrix tenuissima Kütz.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5346,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ulothrix tenerrima (Kütz.) Kütz.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5347,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ulothrix aequalis Kütz.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5348,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Geminella interrupta (Turpin) Lagerh.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5349,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Hormidium subtile (Kutzing) Heering,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5350,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Hormidium rivulare Kütz.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5351,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Stigeoclonium tenue (C.Agardh) Kütz.,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5352,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stigeoclonium Kützing, 1843",Plantae,,Braun-Blanquet Scale,Tuexen_7487_5353,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Stigeoclonium flagelliferum Kütz.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5354,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Draparnaldia plumosa (Vaucher) C.Agardh,Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5355,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Draparnaldia glomerata (Vaucher) C.Agardh,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5356,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chaetophora elegans (Roth) C.Agardh,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5357,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chaetophora incrassata (Hudson) Hazen,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5358,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chaetonema irregulare Nowak.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5359,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gongrosira Kützing, 1843",Plantae,,Braun-Blanquet Scale,Tuexen_7487_5360,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gongrosira Kützing, 1843",Plantae,+,Braun-Blanquet Scale,Tuexen_7487_5361,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chlorotylium cataractum Kuetzing,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5362,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microthamnion,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5363,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microthamnion strictissimum Rabenh.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5364,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Aphanochaete repens A.Braun,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5365,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coleochaete scutata Bréb.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5366,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coleochaete soluta (Bréb.) Prings.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5367,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coleochaete pulvinata A.Braun,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5368,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Coleochaete orbicularis Pringsh.,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5369,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chaetopeltis orbicularis Berthold,Plantae,,Braun-Blanquet Scale,Tuexen_7487_5370,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Amphipleura rutilans (Trentepohl ex Roth) Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5846,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Frustulia rhomboides (Ehrenberg) De Toni, 1891",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5847,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Frustulia C.A.Agardh, 1824",Chromista,,Braun-Blanquet Scale,Tuexen_7487_5848,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Frustulia vulgaris (Thwaites) De Toni, 1891",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5849,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Frustulia C.A.Agardh, 1824",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5850,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gyrosigma acuminatum (Kützing) Rabenhorst, 1853",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5851,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gyrosigma attenuatum (Kützing) Rabenhorst, 1853",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5852,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gyrosigma A.H.Hassall, 1845",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5853,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Pleurosigma elongatum W.Smith, 1852",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5854,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Caloneis amphisbaena (Bory de Saint Vincent) Cleve, 1894",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5855,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Caloneis P.T.Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5856,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Caloneis formosa (Gregory) Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5857,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Caloneis latiuscula (Kützing) Cleve, 1894",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5858,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Caloneis silicula (Ehrenberg) Cleve, 1894",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5859,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Neidium affine (Ehrenberg) Pfizer, 1871",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5860,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Neidium E.Pfitzer, 1871",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5861,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Neidium iridis (Ehrenberg) Cleve, 1894",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5862,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Neidium productum (W.Smith) Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5863,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Neidium dubium (Ehenberg) Cleve, 1894",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5864,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Neidium bisulcatum Lagerst.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5865,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Diploneis ovalis H.Lange-Bertalot,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5866,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diploneis (Cleve, 1894)",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5867,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diploneis oculata (Brébisson) Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5868,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diploneis elliptica (Kützing) Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5869,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diploneis puella (Schumann) Cleve, 1894",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5870,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Diploneis interrupta (Kützing) Cleve, 1894",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5871,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stauroneis anceps Ehrenberg, 1843",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5872,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stauroneis C.G.Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5873,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stauroneis salina W.Smith, 1853",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5874,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stauroneis pygmaea Castracane, 1886",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5875,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stauroneis phoenicenteron (Nitzsch) Ehrenberg, 1843",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5876,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stauroneis C.G.Ehrenberg, 1843",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5877,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Anomoeoneis exilis (Kützing) Cleve, 1895",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5878,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Anomoeoneis E.Pfitzer, 1871",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5879,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Anomoeoneis serians var. brachysira (Bréb.) Cleve,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5880,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Anomoeoneis zellensis (Grunow) Cleve, 1895",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5881,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Anomoeoneis sphaerophora var. sculpta (Ehrenberg) O.Müller, 1900",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5882,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula cuspidata Otto Müller, 1899",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5883,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula gregaria Donkin,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_5884,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula crucicula var. obtusata Grunow, 1880",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5885,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Navicula spicula (Hickie) Cleve,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5886,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Navicula minima Grunow, 1880",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_5887,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gomphonema longiceps Ehrenberg, 1854",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6289,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Denticula tenuis Kützing, 1844",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6290,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Epithemia zebra (Ehrenberg) Kützing, 1844",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6291,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Epithemia F.T.Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6292,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Epithemia turgida (Ehrenberg) Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6293,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Epithemia sorex Kützing, 1844",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6294,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Rhopalodia gibba (Ehrenberg) Otto Müller, 1895",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6295,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Rhopalodia gibberula (Ehrenberg) Otto Müller, 1895",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6296,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Hantzschia amphioxyss (Ehrenberg) Grunow, 1880",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6297,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Bacillaria paradoxa J.F.Gmelin, 1791",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6298,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Nitzschia tryblionella Hantzsch, 1860",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6299,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Nitschia,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6300,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Nitzschia apiculata,Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6301,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Nitzschia angustata,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6302,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Nitzschia hybrida Grunow,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6303,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Nitzschia gandersheimiensis Krasske, 1927",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6304,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Nitzschia sinuata W.Sm.,Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6305,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Nitzschia linearis W.Smith, 1853",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6306,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymatopleura solea Van Heurck, 1881",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6307,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cymatopleura elliptica (Brébisson) W.Smith, 1851",Chromista,+,Braun-Blanquet Scale,Tuexen_7487_6308,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Stenopterobia intermedia (F.W.Lewis) Van Heurck, 1896",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6309,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Surirella biseriata var. bifrons (Ehrenberg) Hustedt, 1911",Chromista,—,Braun-Blanquet Scale,Tuexen_7487_6310,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euglena viridis (O.F.Müll.) Ehrenb.,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6609,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euglena haematodes Lemmermann,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6610,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euglena mutabilis F.Schmitz,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6611,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Euglena acutissima Lemmermann, 1904",Protozoa,+,Braun-Blanquet Scale,Tuexen_7487_6612,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euglena spirogyra Ehrenb.,Protozoa,+,Braun-Blanquet Scale,Tuexen_7487_6613,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Euglena oxyuris Schmarda,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6614,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Lepocinclis teres (F.Schmitz) Francé,Protozoa,+,Braun-Blanquet Scale,Tuexen_7487_6615,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Phacus pleuronectes (O.F.Müll.) Dujard.,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6616,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Phacus triqueter (Ehrenb.) Dujard.,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6617,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Phacus pyrum (Ehrenb.) F.Stein,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6618,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Trachelomonas volvocina Ehrenb.,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6619,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Trachelomonas oblonga Lemmerm.,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6620,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Trachelomonas hispida (Perty) F.Stein,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6621,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Heteronema,Protozoa,,Braun-Blanquet Scale,Tuexen_7487_6622,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Gonyostomum semen (Ehrenb.) Diesing,Chromista,,Braun-Blanquet Scale,Tuexen_7487_6623,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Dino Loman, 1892",Animalia,,Braun-Blanquet Scale,Tuexen_7487_6624,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Hemidinium nasutum Stein, 1883",Chromista,,Braun-Blanquet Scale,Tuexen_7487_6625,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gymnodinium F.Stein, 1878",Chromista,,Braun-Blanquet Scale,Tuexen_7487_6626,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Glenodinium neglectum A.J.Schill.,Chromista,,Braun-Blanquet Scale,Tuexen_7487_6627,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Glenodinium oculatum F.Stein,Chromista,,Braun-Blanquet Scale,Tuexen_7487_6628,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Glenodinium Ehrenberg, 1836",Chromista,,Braun-Blanquet Scale,Tuexen_7487_6629,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Peridinium Ehrenberg, 1830",Chromista,,Braun-Blanquet Scale,Tuexen_7487_6630,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Peridinium cinctum Pénard,Chromista,,Braun-Blanquet Scale,Tuexen_7487_6631,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Peridinium bipes F.Stein,Chromista,,Braun-Blanquet Scale,Tuexen_7487_6632,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ceratium cornutum (Ehren.) Clap. & J.Lachm.,Chromista,,Braun-Blanquet Scale,Tuexen_7487_6633,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Ceratium hirundinella (O.F.Müll.) Dujard.,Chromista,,Braun-Blanquet Scale,Tuexen_7487_6634,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Characeae,Plantae,,Braun-Blanquet Scale,Tuexen_7487_6635,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Nitella C.Agardh, 1824",Plantae,,Braun-Blanquet Scale,Tuexen_7487_6636,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Chara fragilis Loiseleur-deslongchamps, 1810",Plantae,,Braun-Blanquet Scale,Tuexen_7487_6637,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chara foetida A.Braun,Plantae,,Braun-Blanquet Scale,Tuexen_7487_6638,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gonatozygon de Bary, 1858",Plantae,,Braun-Blanquet Scale,Tuexen_7487_6639,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Spirotaenia obscura Ralfs,Plantae,,Braun-Blanquet Scale,Tuexen_7487_6640,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Mesotaenium Nägeli, 1849",Plantae,,Braun-Blanquet Scale,Tuexen_7487_6641,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Roya obtusa (Brébisson) West & G.S.West,Plantae,,Braun-Blanquet Scale,Tuexen_7487_6642,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cylindrocystis Meneghini ex De Bary, 1858",Plantae,,Braun-Blanquet Scale,Tuexen_7487_6643,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Netrium digitus (Ehrenberg ex Ralfs) Itzigsohn & Rothe,Plantae,,Braun-Blanquet Scale,Tuexen_7487_6644,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Nettium (Kaup, 1829)",Animalia,,Braun-Blanquet Scale,Tuexen_7487_6645,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Netrium oblongum (De Bary) Lütkemüller,Plantae,,Braun-Blanquet Scale,Tuexen_7487_6646,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Netrium interruptum (Brébisson ex Ralfs) Lütkemüller,Plantae,,Braun-Blanquet Scale,Tuexen_7487_6647,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Penium Brébisson ex Ralfs, 1848",Plantae,,Braun-Blanquet Scale,Tuexen_7487_6648,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cosmarium impressulum Elfving, 1881",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7092,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium jenisejense Boldt,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7093,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium margaritiferum Menegh. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7094,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium ochthodes Nordstedt,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7095,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium obtusatum Schmidle,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7096,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium pachydermum P.Lundell,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7097,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium perforatum P.Lundell,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7098,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium pyramidatum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7099,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium pseudoamoenum Wille,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7100,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium punctulatum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7101,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium quadratum Ralfs ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7102,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium regulare Schmidle,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7103,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium reniforme (Ralfs) W.Archer,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7104,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium subtumidum Nordst.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7105,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium subarctoum (Lagerheim) Raciborski,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7106,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium subcostatum Nordst.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7107,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium subprotumidum Nordst.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7108,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium sexnotatum Gutw.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7109,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium speciosum P.Lundell,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7110,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium taxichondriforme B.Eichl. & Gutw.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7111,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium tinctum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7112,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium tetrachondrum P.Lundell,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7113,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium trilobulatum Reinsch,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7114,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium tetraophthalmum Brébisson ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7115,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cosmarium humile Nordst. ex De Toni,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7116,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Xanthidium antilopaeum (Bréb.) Kütz.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7117,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Xanthidium fasciculatum Ehrenberg ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7118,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Xanthidium cristatum Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7119,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Arthrodesmus incus (Bréb.) Hassall ex Ralfs, 1848",Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7120,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Arthrodesmus octocornis (Ehrenberg ex Ralfs) West & G.S.West,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7121,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum aculeatum Menegh. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7122,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum apiculatum Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7123,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum avicula Bréb. ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7124,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum brevispina Bréb.,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7125,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum brachiatum Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7126,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum connatum (P.Lundell) J.Roy & Bisset,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7127,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum cristatum (Nägeli) W.Archer,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7128,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum crenulatum (Nägeli) Delponte,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7129,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum denticulatum (Nägeli) W.Archer,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7130,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Staurastrum dilatatum Ehrenberg ex Ralfs,Plantae,—,Braun-Blanquet Scale,Tuexen_7487_7131,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Rivulariaceae,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_7579,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Homoeothrix (Thuret ex Bornet & Flahault) Kirchner, 1898",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7580,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Calothrix C.Agardh ex Bornet & Flahault, 1886",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7581,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gloeotrichia J.Agardh ex Bornet & Flahault, 1886",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7582,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Gloeotrichia intermedia (Lemmerm.) Geitler,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7583,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Scytonemataceae,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_7584,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tolypothrix distorta Kütz. ex Bornet & Flahault,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7585,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tolypothrix tenuis Kütz. ex Bornet & Flahault,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7586,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Scytonema C.Agardh ex Bornet & Flahault, 1886",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7587,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Desmonema L.Agassiz, 1862",Animalia,‒,Braun-Blanquet Scale,Tuexen_7487_7588,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Microchaetaceae,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_7589,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Microchaete Thuret ex Bornet & Flahault, 1886",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7590,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Nostocaceae,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_7591,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Nodularia spumigena Mert. ex Bornet & Flahault,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7592,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Nostoc Vaucher ex Bornet & Flahault, 1886",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7593,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Anabaena Bory de Saint-Vincent ex Bornet & Flahault, 1886",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7594,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cyanobacteriales,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7595,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Cylindrospermum Kützing ex Bornet & Flahault, 1886",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7596,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Cylindrospermum majus Kütz. ex Bornet & Flahault,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7597,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oscillatoriaceae,Bacteria,,Braun-Blanquet Scale,Tuexen_7487_7598,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Borzia trilocularis Cohn ex Gomont,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7599,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Borgia,Animalia,‒,Braun-Blanquet Scale,Tuexen_7487_7600,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Oscillatoria Vaucher ex Gomont, 1892",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7601,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oscillatoria limosa C.Agardh ex Gomont,Bacteria,+,Braun-Blanquet Scale,Tuexen_7487_7602,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oscillatoria tenuis C.Agardh ex Gomont,Bacteria,+,Braun-Blanquet Scale,Tuexen_7487_7603,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oscillatoria amphibia C.Agardh,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7604,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oscillatoria amoena Gomont,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7605,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Oscillatoria splendida Grev.,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7606,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Phormidium Kützing ex Gomont, 1892",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7607,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Lyngbya contorta Lemmerm.,Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7608,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Schizothrix Kützing ex Gomont, 1892",Bacteria,‒,Braun-Blanquet Scale,Tuexen_7487_7609,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Chlorophyceae,Plantae,,Braun-Blanquet Scale,Tuexen_7487_7610,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetrasporales,Plantae,,Braun-Blanquet Scale,Tuexen_7487_7611,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Gloeococcus,Plantae,‒,Braun-Blanquet Scale,Tuexen_7487_7612,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Asterococcus superbus (Cienk.) Scherff.,Plantae,‒,Braun-Blanquet Scale,Tuexen_7487_7613,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Gloeocystis ampla (Kütz.) Lagerheim,Plantae,‒,Braun-Blanquet Scale,Tuexen_7487_7614,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+"Gloeocystis Nägeli, 1849",Plantae,‒,Braun-Blanquet Scale,Tuexen_7487_7615,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Palmodictyon varium (Nägeli) Lemmerm.,Plantae,‒,Braun-Blanquet Scale,Tuexen_7487_7616,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetraspora gelatinosa (Vaucher) Desv.,Plantae,‒,Braun-Blanquet Scale,Tuexen_7487_7617,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation
+Tetraspora cylindrica (Wahlenb.) C.Agardh,Plantae,‒,Braun-Blanquet Scale,Tuexen_7487_7618,51.2345,8.9012,1942,Tuexen_7487_55472715,HumanObservation

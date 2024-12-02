@@ -1,0 +1,343 @@
+scientificName,kingdom,organismQuantity,organismQuantityType,occurrenceID,decimalLatitude,decimalLongitude,year,eventID,basisofRecord
+Pinaceae,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_52,51.725,10.5167,1928,Tuexen_2673_39522227,HumanObservation
+Betula pubescens Ehrh.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_53,51.725,10.5167,1928,Tuexen_2673_39522227,HumanObservation
+Sorbus aucuparia L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_54,51.725,10.5167,1928,Tuexen_2673_39522227,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_55,51.725,10.5167,1928,Tuexen_2673_39522227,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,3.0,Braun-Blanquet Scale,Tuexen_2673_56,51.725,10.5167,1928,Tuexen_2673_39522227,HumanObservation
+Vaccinium myrtillus L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_57,51.725,10.5167,1928,Tuexen_2673_39522227,HumanObservation
+Vaccinium L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_58,51.725,10.5167,1928,Tuexen_2673_39522227,HumanObservation
+Calamogrostis,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_278,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Lycopodium annotinum L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_279,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Galium saxatile L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_280,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Molinia coerulea (L.) Moench,Plantae,,Braun-Blanquet Scale,Tuexen_2673_281,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,,Braun-Blanquet Scale,Tuexen_2673_282,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_283,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Hypnum Hedw.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_284,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Ctenidium crista-castrensis (L. ex Hedw.) C.E.O.Jensen,Plantae,,Braun-Blanquet Scale,Tuexen_2673_285,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_286,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Polytrichum perigoniale Michx.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_287,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Georgia pellucida (Hedw.) Rabenh.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_288,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Plagiothecium undulatum (Hedw.) Schimp.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_289,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Sphagnum acutifolium Schrad.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_290,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Girgensohnia Bunge ex Fenzl,Plantae,,Braun-Blanquet Scale,Tuexen_2673_291,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Lophocolea bidentata (L.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_292,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Ptilidium ciliare (L.) Hampe,Plantae,,Braun-Blanquet Scale,Tuexen_2673_293,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Lophozia gracilis (Schleich. ex DC.) Steph.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_294,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Lepidozia reptans (L.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_295,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Mastigobryum trilobatum (L.) Nees,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_296,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Cladonia pyxidata (L.) Hoffm.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_297,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+"Cladonia P.Browne, 1756",Fungi,,Braun-Blanquet Scale,Tuexen_2673_298,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Cetraria glauca (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_299,47.5833,9.7667,1928,Tuexen_2673_14045634,HumanObservation
+Pinaceae,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_44,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+Betula pubescens Ehrh.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_45,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+Betula pubescens Ehrh.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_46,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+Sorbus aucuparia L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_47,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,3.0,Braun-Blanquet Scale,Tuexen_2673_48,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_49,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+Vaccinium myrtillus L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_50,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+Vaccinium L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_51,51.769,10.486,1928,Tuexen_2673_49367328,HumanObservation
+Calamogrostis,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_360,,,1928,Tuexen_2673_86747236,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_361,,,1928,Tuexen_2673_86747236,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_362,,,1928,Tuexen_2673_86747236,HumanObservation
+Viola palustris L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_363,,,1928,Tuexen_2673_86747236,HumanObservation
+Carex vulgaris L.H.Bailey,Plantae,,Braun-Blanquet Scale,Tuexen_2673_364,,,1928,Tuexen_2673_86747236,HumanObservation
+Medium Opiz,Plantae,,Braun-Blanquet Scale,Tuexen_2673_365,,,1928,Tuexen_2673_86747236,HumanObservation
+Polytrichum gracile Bryhn,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_366,,,1928,Tuexen_2673_86747236,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_367,,,1928,Tuexen_2673_86747236,HumanObservation
+Cephalozia pleniceps (Austin) Lindb.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_368,,,1928,Tuexen_2673_86747236,HumanObservation
+Calypogeia Raddi,Plantae,,Braun-Blanquet Scale,Tuexen_2673_369,,,1928,Tuexen_2673_86747236,HumanObservation
+Calamogrostis,Plantae,,Braun-Blanquet Scale,Tuexen_2673_237,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Lycopodium annotinum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_238,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Galium saxatile L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_239,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Molinia coerulea (L.) Moench,Plantae,,Braun-Blanquet Scale,Tuexen_2673_240,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,,Braun-Blanquet Scale,Tuexen_2673_241,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_242,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Hypnum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_243,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Ctenidium crista-castrensis (L. ex Hedw.) C.E.O.Jensen,Plantae,,Braun-Blanquet Scale,Tuexen_2673_244,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_245,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Polytrichum perigoniale Michx.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_246,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Georgia pellucida (Hedw.) Rabenh.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_247,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Plagiothecium undulatum (Hedw.) Schimp.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_248,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Sphagnum acutifolium Schrad.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_249,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Girgensohnia Bunge ex Fenzl,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_250,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Lophocolea bidentata (L.) Dumort.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_251,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Ptilidium ciliare (L.) Hampe,Plantae,,Braun-Blanquet Scale,Tuexen_2673_252,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Lophozia gracilis (Schleich. ex DC.) Steph.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_253,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Lepidozia reptans (L.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_254,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Mastigobryum trilobatum (L.) Nees,Plantae,,Braun-Blanquet Scale,Tuexen_2673_255,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Cladonia pyxidata (L.) Hoffm.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_256,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+"Cladonia P.Browne, 1756",Fungi,+,Braun-Blanquet Scale,Tuexen_2673_257,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+Cetraria glauca (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_258,51.7994,10.5144,1928,Tuexen_2673_51618092,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_394,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Eriophorum vaginatum L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_395,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_396,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Empetrum nigrum L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_397,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Vaccinium L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_398,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Vaccinium myrtillus L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_399,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Vaccinium vitis,Plantae,,Braun-Blanquet Scale,Tuexen_2673_400,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Sphagnum rubellum Wilson,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_401,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,,Braun-Blanquet Scale,Tuexen_2673_402,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_403,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_404,51.799,10.617,1928,Tuexen_2673_8693739,HumanObservation
+Calluna Salisb.,Plantae,4.0,Braun-Blanquet Scale,Tuexen_2673_168,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Empetrum nigrum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_169,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Andromeda polifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_222,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Vaccinium oxycoccus L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_223,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_224,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,+,Braun-Blanquet Scale,Tuexen_2673_225,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Eriophorum vaginatum L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_226,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Sphagnum fuscum (Schimp.) H.Klinggr.,Plantae,5.0,Braun-Blanquet Scale,Tuexen_2673_227,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Medium Opiz,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_228,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_229,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_230,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_231,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_232,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Calypogeia Raddi,Plantae,,Braun-Blanquet Scale,Tuexen_2673_233,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_234,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Tetraphis pellucida Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_235,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_236,5.815,17.1927,1928,Tuexen_2673_11145209,HumanObservation
+Empetrum nigrum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_118,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Andromeda polifolia L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_119,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Eriophorum vaginatum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_120,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_121,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_122,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Melampyrum pratense L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_123,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_124,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Sphagnum rubellum Wilson,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_125,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Medium Opiz,Plantae,,Braun-Blanquet Scale,Tuexen_2673_126,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_127,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Hypnum Hedw.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_128,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_129,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Dicranum scoparium Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_130,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_131,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Dicranum undulatum Schumach.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_132,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_133,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Scapania curta (Mart.) Dumort.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_134,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Ptilidium Nees,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_135,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_136,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Cladonia rangiferina (L.) Weber,Fungi,,Braun-Blanquet Scale,Tuexen_2673_137,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_138,47.5833,11.0167,1928,Tuexen_2673_27566648,HumanObservation
+Empetrum nigrum L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_97,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Andromeda polifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_98,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Eriophorum vaginatum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_99,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_100,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_101,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Melampyrum pratense L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_102,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_103,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Sphagnum rubellum Wilson,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_104,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Medium Opiz,Plantae,,Braun-Blanquet Scale,Tuexen_2673_105,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_106,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Hypnum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_107,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_108,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Dicranum scoparium Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_109,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Dicranum Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_110,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Dicranum undulatum Schumach.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_111,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_112,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Scapania curta (Mart.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_113,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Ptilidium Nees,Plantae,,Braun-Blanquet Scale,Tuexen_2673_114,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_115,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Cladonia rangiferina (L.) Weber,Fungi,1.0,Braun-Blanquet Scale,Tuexen_2673_116,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_117,53.5586,9.7877,1928,Tuexen_2673_42383275,HumanObservation
+Empetrum nigrum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_139,,,1928,Tuexen_2673_77183091,HumanObservation
+Andromeda polifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_140,,,1928,Tuexen_2673_77183091,HumanObservation
+Eriophorum vaginatum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_141,,,1928,Tuexen_2673_77183091,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_142,,,1928,Tuexen_2673_77183091,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_143,,,1928,Tuexen_2673_77183091,HumanObservation
+Melampyrum pratense L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_144,,,1928,Tuexen_2673_77183091,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_145,,,1928,Tuexen_2673_77183091,HumanObservation
+Sphagnum rubellum Wilson,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_146,,,1928,Tuexen_2673_77183091,HumanObservation
+Medium Opiz,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_147,,,1928,Tuexen_2673_77183091,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_148,,,1928,Tuexen_2673_77183091,HumanObservation
+Hypnum Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_149,,,1928,Tuexen_2673_77183091,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_150,,,1928,Tuexen_2673_77183091,HumanObservation
+Dicranum scoparium Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_151,,,1928,Tuexen_2673_77183091,HumanObservation
+Dicranum Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_152,,,1928,Tuexen_2673_77183091,HumanObservation
+Dicranum undulatum Schumach.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_153,,,1928,Tuexen_2673_77183091,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_154,,,1928,Tuexen_2673_77183091,HumanObservation
+Scapania curta (Mart.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_155,,,1928,Tuexen_2673_77183091,HumanObservation
+Ptilidium Nees,Plantae,,Braun-Blanquet Scale,Tuexen_2673_156,,,1928,Tuexen_2673_77183091,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_157,,,1928,Tuexen_2673_77183091,HumanObservation
+Cladonia rangiferina (L.) Weber,Fungi,1.0,Braun-Blanquet Scale,Tuexen_2673_158,,,1928,Tuexen_2673_77183091,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_159,,,1928,Tuexen_2673_77183091,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_416,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Eriophorum vaginatum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_417,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,,Braun-Blanquet Scale,Tuexen_2673_418,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Empetrum nigrum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_419,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Vaccinium L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_420,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Vaccinium myrtillus L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_421,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Vaccinium vitis,Plantae,,Braun-Blanquet Scale,Tuexen_2673_422,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Sphagnum rubellum Wilson,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_423,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,,Braun-Blanquet Scale,Tuexen_2673_424,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_425,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_426,22.2,14.1927,1928,Tuexen_2673_14235138,HumanObservation
+Calluna Salisb.,Plantae,3.0,Braun-Blanquet Scale,Tuexen_2673_160,53.55,10.0,1928,Tuexen_2673_97552554,HumanObservation
+Empetrum nigrum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_161,53.55,10.0,1928,Tuexen_2673_97552554,HumanObservation
+Andromeda polifolia L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_170,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Vaccinium oxycoccus L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_171,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_172,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,+,Braun-Blanquet Scale,Tuexen_2673_173,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Eriophorum vaginatum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_174,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Sphagnum fuscum (Schimp.) H.Klinggr.,Plantae,4.0,Braun-Blanquet Scale,Tuexen_2673_175,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Medium Opiz,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_176,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_177,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Dicranum Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_178,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_179,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_180,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Calypogeia Raddi,Plantae,,Braun-Blanquet Scale,Tuexen_2673_181,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_182,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Tetraphis pellucida Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_183,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_184,53.5511,9.9937,1928,Tuexen_2673_97552554,HumanObservation
+Calluna Salisb.,Plantae,3.0,Braun-Blanquet Scale,Tuexen_2673_166,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Empetrum nigrum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_167,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Andromeda polifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_207,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Vaccinium oxycoccus L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_208,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_209,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_210,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Eriophorum vaginatum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_211,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Sphagnum fuscum (Schimp.) H.Klinggr.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_212,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Medium Opiz,Plantae,4.0,Braun-Blanquet Scale,Tuexen_2673_213,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_214,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_215,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_216,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_217,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Calypogeia Raddi,Plantae,,Braun-Blanquet Scale,Tuexen_2673_218,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,,Braun-Blanquet Scale,Tuexen_2673_219,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Tetraphis pellucida Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_220,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_221,52.52,13.405,1928,Tuexen_2673_39079952,HumanObservation
+Calamogrostis,Plantae,,Braun-Blanquet Scale,Tuexen_2673_344,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_345,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_346,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Viola palustris L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_347,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Carex vulgaris L.H.Bailey,Plantae,,Braun-Blanquet Scale,Tuexen_2673_348,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Medium Opiz,Plantae,,Braun-Blanquet Scale,Tuexen_2673_349,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Polytrichum gracile Bryhn,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_350,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_351,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Cephalozia pleniceps (Austin) Lindb.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_352,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Calypogeia Raddi,Plantae,,Braun-Blanquet Scale,Tuexen_2673_353,51.799,10.617,1928,Tuexen_2673_18115056,HumanObservation
+Calluna Salisb.,Plantae,4.0,Braun-Blanquet Scale,Tuexen_2673_162,51.799,10.617,1928,Tuexen_2673_64428029,HumanObservation
+Empetrum nigrum L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_163,51.799,10.617,1928,Tuexen_2673_64428029,HumanObservation
+Andromeda polifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_185,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Vaccinium oxycoccus L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_186,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_187,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,,Braun-Blanquet Scale,Tuexen_2673_188,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Eriophorum vaginatum L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_189,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Sphagnum fuscum (Schimp.) H.Klinggr.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_190,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Medium Opiz,Plantae,3.0,Braun-Blanquet Scale,Tuexen_2673_191,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_192,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_193,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_194,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_195,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Calypogeia Raddi,Plantae,,Braun-Blanquet Scale,Tuexen_2673_196,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_197,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Tetraphis pellucida Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_198,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_199,51.7994,10.6175,1928,Tuexen_2673_64428029,HumanObservation
+Calamogrostis,Plantae,,Braun-Blanquet Scale,Tuexen_2673_322,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Lycopodium annotinum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_323,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Galium saxatile L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_324,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Molinia coerulea (L.) Moench,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_325,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,,Braun-Blanquet Scale,Tuexen_2673_326,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_327,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Hypnum Hedw.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_328,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Ctenidium crista-castrensis (L. ex Hedw.) C.E.O.Jensen,Plantae,,Braun-Blanquet Scale,Tuexen_2673_329,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_330,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Polytrichum perigoniale Michx.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_331,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Georgia pellucida (Hedw.) Rabenh.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_332,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Plagiothecium undulatum (Hedw.) Schimp.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_333,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Sphagnum acutifolium Schrad.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_334,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Girgensohnia Bunge ex Fenzl,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_335,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Lophocolea bidentata (L.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_336,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Ptilidium ciliare (L.) Hampe,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_337,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Lophozia gracilis (Schleich. ex DC.) Steph.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_338,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Lepidozia reptans (L.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_339,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Mastigobryum trilobatum (L.) Nees,Plantae,,Braun-Blanquet Scale,Tuexen_2673_340,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Cladonia pyxidata (L.) Hoffm.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_341,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+"Cladonia P.Browne, 1756",Fungi,+,Braun-Blanquet Scale,Tuexen_2673_342,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+Cetraria glauca (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_343,51.805,10.524,1928,Tuexen_2673_56231110,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,3.0,Braun-Blanquet Scale,Tuexen_2673_405,,,1928,Tuexen_2673_30020558,HumanObservation
+Eriophorum vaginatum L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_406,,,1928,Tuexen_2673_30020558,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,,Braun-Blanquet Scale,Tuexen_2673_407,,,1928,Tuexen_2673_30020558,HumanObservation
+Empetrum nigrum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_408,,,1928,Tuexen_2673_30020558,HumanObservation
+Vaccinium L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_409,,,1928,Tuexen_2673_30020558,HumanObservation
+Vaccinium myrtillus L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_410,,,1928,Tuexen_2673_30020558,HumanObservation
+Vaccinium vitis,Plantae,,Braun-Blanquet Scale,Tuexen_2673_411,,,1928,Tuexen_2673_30020558,HumanObservation
+Sphagnum rubellum Wilson,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_412,,,1928,Tuexen_2673_30020558,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,,Braun-Blanquet Scale,Tuexen_2673_413,,,1928,Tuexen_2673_30020558,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_414,,,1928,Tuexen_2673_30020558,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_415,,,1928,Tuexen_2673_30020558,HumanObservation
+Molinia coerulea (L.) Moench,Plantae,,Braun-Blanquet Scale,Tuexen_2673_0,,,1928,Tuexen_2673_33693369,HumanObservation
+Calamogrostis,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_1,,,1928,Tuexen_2673_33693369,HumanObservation
+Eriophorum vaginatum L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_2,,,1928,Tuexen_2673_33693369,HumanObservation
+Vaccinium oxycoccus L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_3,,,1928,Tuexen_2673_33693369,HumanObservation
+Carex vulgaris L.H.Bailey,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_4,,,1928,Tuexen_2673_33693369,HumanObservation
+Potentilla L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_5,,,1928,Tuexen_2673_33693369,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,,Braun-Blanquet Scale,Tuexen_2673_6,,,1928,Tuexen_2673_33693369,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_7,,,1928,Tuexen_2673_33693369,HumanObservation
+Sphagnum recurvum P.Beauv.,Plantae,4.0,Braun-Blanquet Scale,Tuexen_2673_8,,,1928,Tuexen_2673_33693369,HumanObservation
+Medium Opiz,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_9,,,1928,Tuexen_2673_33693369,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_10,,,1928,Tuexen_2673_33693369,HumanObservation
+Cephalozia connivens (Dicks.) Lindb.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_11,,,1928,Tuexen_2673_33693369,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_12,,,1928,Tuexen_2673_33693369,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,3.0,Braun-Blanquet Scale,Tuexen_2673_383,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Eriophorum vaginatum L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_384,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_385,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Empetrum nigrum L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_386,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Vaccinium L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_387,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Vaccinium myrtillus L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_388,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Vaccinium vitis,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_389,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Sphagnum rubellum Wilson,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_390,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Mylia anomala (Hook.) Gray,Plantae,,Braun-Blanquet Scale,Tuexen_2673_391,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Cladonia furcata (Huds.) Baumg.,Fungi,1+,Braun-Blanquet Scale,Tuexen_2673_392,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_393,53.5511,9.9937,1928,Tuexen_2673_54320369,HumanObservation
+Calamogrostis,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_300,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Lycopodium annotinum L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_301,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Galium saxatile L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_302,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Molinia coerulea (L.) Moench,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_303,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_304,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_305,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Hypnum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_306,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Ctenidium crista-castrensis (L. ex Hedw.) C.E.O.Jensen,Plantae,,Braun-Blanquet Scale,Tuexen_2673_307,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Dicranum Hedw.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_308,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Polytrichum perigoniale Michx.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_309,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Georgia pellucida (Hedw.) Rabenh.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_310,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Plagiothecium undulatum (Hedw.) Schimp.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_311,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Sphagnum acutifolium Schrad.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_312,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Girgensohnia Bunge ex Fenzl,Plantae,,Braun-Blanquet Scale,Tuexen_2673_313,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Lophocolea bidentata (L.) Dumort.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_314,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Ptilidium ciliare (L.) Hampe,Plantae,,Braun-Blanquet Scale,Tuexen_2673_315,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Lophozia gracilis (Schleich. ex DC.) Steph.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_316,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Lepidozia reptans (L.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_317,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Mastigobryum trilobatum (L.) Nees,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_318,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Cladonia pyxidata (L.) Hoffm.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_319,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+"Cladonia P.Browne, 1756",Fungi,,Braun-Blanquet Scale,Tuexen_2673_320,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Cetraria glauca (L.) Ach.,Fungi,,Braun-Blanquet Scale,Tuexen_2673_321,51.7994,10.5353,1928,Tuexen_2673_5245130,HumanObservation
+Calamogrostis,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_370,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Calluna vulgaris (L.) Hull,Plantae,,Braun-Blanquet Scale,Tuexen_2673_371,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_372,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Viola palustris L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_373,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Carex vulgaris L.H.Bailey,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_374,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Medium Opiz,Plantae,,Braun-Blanquet Scale,Tuexen_2673_375,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Polytrichum gracile Bryhn,Plantae,,Braun-Blanquet Scale,Tuexen_2673_376,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_377,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Cephalozia pleniceps (Austin) Lindb.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_378,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Calypogeia Raddi,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_379,51.799,10.471,1928,Tuexen_2673_20941907,HumanObservation
+Empetrum nigrum L.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_59,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Andromeda polifolia L.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_60,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Eriophorum vaginatum L.,Plantae,2.0,Braun-Blanquet Scale,Tuexen_2673_61,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+"Scirpus caespitosus Boeckeler, 1870",Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_62,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Lysimachia Tourn. ex L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_63,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Melampyrum pratense L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_64,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Drosera rotundifolia L.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_65,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Sphagnum rubellum Wilson,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_66,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Medium Opiz,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_67,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Polytrichum strictum Menzies ex Brid.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_68,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Hypnum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_69,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Hylocomium loreum (Hedw.) Schimp.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_70,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Dicranum scoparium Hedw.,Plantae,1.0,Braun-Blanquet Scale,Tuexen_2673_71,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Dicranum Hedw.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_72,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Dicranum undulatum Schumach.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_73,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Odontoschisma sphagni (Dicks.) Dumort.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_74,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Scapania curta (Mart.) Dumort.,Plantae,,Braun-Blanquet Scale,Tuexen_2673_75,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Ptilidium Nees,Plantae,,Braun-Blanquet Scale,Tuexen_2673_76,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Aulacomnium palustre (Hedw.) Schwägr.,Plantae,+,Braun-Blanquet Scale,Tuexen_2673_77,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Cladonia rangiferina (L.) Weber,Fungi,3.0,Braun-Blanquet Scale,Tuexen_2673_78,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation
+Cetraria islandica (L.) Ach.,Fungi,+,Braun-Blanquet Scale,Tuexen_2673_79,52.264,10.614,1928,Tuexen_2673_61615078,HumanObservation

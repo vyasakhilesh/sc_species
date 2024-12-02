@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:eml xmlns:ns0="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd" packageId="http://localhost:8080/resource?id=testresource/v1.0" system="http://gbif.org" scope="system" xml:lang="eng">
+
+        <dataset>
+                <title xml:lang="eng">Najas minor all. in Europa einst und jetzt</title>
+                    <creator>
+            <individualName>
+                    <givenName>TestFirstName</givenName>
+                <surName>TestLastName</surName>
+            </individualName>
+            <organizationName>TestOrganisation</organizationName>
+            <positionName>TestPosition</positionName>
+            <address>
+                    <deliveryPoint>TestAddress</deliveryPoint>
+                    <city>TestCity</city>
+                    <administrativeArea>TestState</administrativeArea>
+                    <postalCode>TestPostal</postalCode>
+                    <country>DE</country>
+            </address>
+            <phone>TestPhone</phone>
+            <electronicMailAddress>Test@test.com</electronicMailAddress>
+            <onlineUrl>http://TestHomePage</onlineUrl>
+                    <userId directory="https://orcid.org/">TestPersonnelID</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>TestFirstName</givenName>
+                <surName>TestLastName</surName>
+            </individualName>
+            <organizationName>TestOrganization</organizationName>
+            <positionName>TestPosition</positionName>
+            <address>
+                    <deliveryPoint>TestAddress</deliveryPoint>
+                    <city>TestCity</city>
+                    <administrativeArea>TestState</administrativeArea>
+                    <postalCode>TestPostalCode</postalCode>
+                    <country>DE</country>
+            </address>
+            <phone>TestPhone</phone>
+            <electronicMailAddress>Test@test.com</electronicMailAddress>
+            <onlineUrl>http://TestHomePage</onlineUrl>
+                    <userId directory="https://orcid.org/">TestPersonnelID</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Akhilesh</givenName>
+                <surName>Vyas</surName>
+            </individualName>
+            <organizationName>TestOrganisation</organizationName>
+            <positionName>TestPosition</positionName>
+            <address>
+                    <deliveryPoint>TestAddress</deliveryPoint>
+                    <city>TestCity</city>
+                    <administrativeArea>TestState</administrativeArea>
+                    <postalCode>TestPostalCode</postalCode>
+                    <country>DE</country>
+            </address>
+            <phone>TestPhone</phone>
+            <electronicMailAddress>admin@admin.com</electronicMailAddress>
+            <onlineUrl>http://TestHomePage</onlineUrl>
+                    <userId directory="https://orcid.org/">TestPerID</userId>
+            <role>user</role>
+                    </associatedParty>
+            <pubDate>
+                    2024-01-24
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>Description  A brief overview of resource.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>testdesc</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <purpose>
+                    <para>intention for which dataset was developed.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para />
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>TestFirstName</givenName>
+                <surName>TestLastName</surName>
+            </individualName>
+            <organizationName>TestOrganisation</organizationName>
+            <positionName>TestPosition</positionName>
+            <address>
+                    <deliveryPoint>TestAddress</deliveryPoint>
+                    <city>TestCity</city>
+                    <administrativeArea>TestState</administrativeArea>
+                    <postalCode>TestPostal</postalCode>
+                    <country>DE</country>
+            </address>
+            <phone>TestPhone</phone>
+            <electronicMailAddress>Test@test.com</electronicMailAddress>
+            <onlineUrl>http://TestHomePage</onlineUrl>
+                    <userId directory="https://orcid.org/">TestPersonnelID</userId>
+                    </contact>
+                <project id="DigiSpeciesID">
+                    <title>DigiSpecies</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>TestFirstName</givenName>
+                                <surName>TestLastName</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">TESTID</userId>
+                            <role>user</role>
+                        </personnel>
+                        <abstract>
+                            <para>DigiSpeciesIDDes</para>
+                        </abstract>
+                        <funding>
+                            <para>DigiSpeciesFunding</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic" citableClassificationSystem="false">
+                                <descriptorValue>DigiSpeciesStudyArea</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>DigiSpeciesDesignDescription</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2024-01-24T00:32:32.665+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="resource citation identifier">resource citation</citation>
+                            <bibliography>
+                                        <citation identifier="resource Bibliographic  Identifier">resource Bibliographic  citation</citation>
+                            </bibliography>
+                                    <collection>
+                                            <parentCollectionIdentifier>ParCollectionID</parentCollectionIdentifier>
+                                            <collectionIdentifier>CollectionID</collectionIdentifier>
+                                        <collectionName>TestCollectionName</collectionName>
+                                    </collection>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </ns0:eml>

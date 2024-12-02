@@ -1,0 +1,29 @@
+
+
+Fast eine Million Pflanzen- und Tierarten sind vom Aussterben bedroht - schätzt das World Biodiversity
+Council. Jedoch fehlen genaue Statistiken, weshalb die Situation noch schlimmer sein könnte. Die
+Datengrundlage durch die Auswertung von Artikeln in wissenschaftlichen Zeitschriften zu verbessern, ist
+das Ziel des Projektes "Digispezies". Das Institut für Geobotanik der LUH beherbergt eine der weltweit
+größten historischen Sammlungen von Artenvorkommen seit dem 19. Jahrhundert. Dazu gehört die
+umfangreiche Sammlung von Vorkommensnachweisen aus dem Nachlass des deutschen Botanikers und
+Pflanzensoziologen Reinhold Tüxen. Diese umfasst unter anderem rund 100.000 gedruckte Artikel mit
+Millionen von Datenpunkten der Pflanzenverbreitung, hauptsächlich aus Niedersachsen und angrenzenden
+Gebieten. Solche wissenschaftlichen Artikel will das Projektteam digitalisieren und Tabellen extrahieren,
+die das Pflanzenartenvorkommen an verschiedenen Orten und zu unterschiedlichen Zeitpunkten
+dokumentieren. Diese Datensätze können dann mit anderen Datensätzen kombiniert werden, die zum
+Beispiel vom Bundesamt für Naturschutz über die Verbreitung von Arten zur Verfügung gestellt werden.
+Die Extraktion und Interpretation der Vielfalt von Tabellen, die in solchen Artikeln enthalten sind, sind eine
+große Herausforderung. Außerdem soll das geobotanische Vokabular abgeglichen werden, das sich über
+die Jahre geändert hat. Die extrahierten Daten sollen als Wissensgraphen für weiterführende Forschung zur
+Verfügung gestellt werden. Damit möchte das Projekt einen wichtigen Beitrag zum Erhalt der Biodiversität in
+Niedersachsen und Deutschland leisten.
+
+Almost a million plant and animal species are threatened with extinction - estimates the World Biodiversity Council. However, precise statistics are lacking, which is why the situation could be even worse. The aim of the "Digispezies" project is to improve the data basis by evaluating articles in scientific journals. The Institute of Geobotany at LUH houses one of the world's largest historical collections of species occurrences since the 19th century. This includes the extensive collection of occurrence records from the estate of the German botanist and plant sociologist Reinhold Tüxen. This includes around 100,000 printed articles with millions of data points on plant distribution, mainly from Lower Saxony and neighboring areas. The project team wants to digitize such scientific articles and extract tables that document the occurrence of plant species in different places and at different times. These data sets can then be combined with other data sets, for example those provided by the Federal Agency for Nature Conservation on the distribution of species. Extracting and interpreting the diversity of tables contained in such articles is a major challenge. In addition, the geobotanical vocabulary, which has changed over the years, will be compared. The extracted data will be made available as knowledge graphs for further research. The project thus aims to make an important contribution to the preservation of biodiversity in Lower Saxony and Germany.
+
+
+Hierzu gehört die umfangreiche Vorkommenssammlung aus dem Nachlass des deutschen Botanikers und Pflanzensoziologen Reinhold Tüxen. Diese umfasst rund 100.000 gedruckte Artikel mit Millionen von Datenpunkten zur Pflanzenverbreitung, überwiegend aus Niedersachsen und angrenzenden Gebieten.
+This includes the extensive collection of occurrences from the estate of the German botanist and plant sociologist Reinhold Tüxen. This includes around 100,000 printed articles with millions of data points on plant distribution, mainly from Lower Saxony and neighboring areas.
+
+
+Diese Daten stammen aus dem Archiv von Prof. Reinhold Tüxen an der Leibniz Universität Hannover, das rund 45.000 Sonderdrucke, Zeitungsartikel, Korrespondenzen, Karten sowie zahlreiche unveröffentlichte Pflanzen- und Vegetationsdaten aus Niedersachsen und Norddeutschland enthält und für die Beurteilung langfristiger Auswirkungen auf die Biodiversität von entscheidender Bedeutung ist. Diese am Institut für Geobotanik verwaltete Sammlung ist insbesondere für die Analyse historischer Artenvorkommen und ihrer Reaktionen auf globale Veränderungen wertvoll.
+These data come from the archive of Prof. Reinhold Tüxen at the Leibniz University Hannover, which contains around 45,000 offprints, newspaper articles, correspondence, maps and numerous unpublished plant and vegetation data from Lower Saxony and Northern Germany and is of crucial importance for assessing long-term effects on biodiversity. This collection, managed at the Institute of Geobotany, is particularly valuable for the analysis of historical species occurrences and their reactions to global changes.
